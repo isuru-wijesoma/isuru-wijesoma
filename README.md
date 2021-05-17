@@ -11,4 +11,4 @@ Drop a message if you are keen to collaborate or to just have a chat about Pharm
 
 - 🌱 I’m currently learning machine learning and natural language processing
 - 💬 Ask me about slide guitar
-- 📫 How to reach me: isuruguitar@gmail.com
+- 📫 How to reach me: iwijesoma@gmail.com
